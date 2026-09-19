@@ -3,36 +3,37 @@ doc_id: xu-ly-vi-pham-nguoi-hoc
 title: Xử lý người học vi phạm quy chế thi
 source_url: https://tqa.iuh.edu.vn/wp-content/uploads/2025/12/Quyet-dinh-so-610-QD-DHCN-ve-viec-ban-hanh-Quy-che-quan-ly-cong-tac-thi-va-danh-gia-ket-qua-hoc-tap..pdf
 retrieved_at: 2026-09-19
-document_version: 610/QĐ-ĐHCN ngày 21/02/2025
+document_version: "610/QĐ-ĐHCN ngày 21/02/2025"
 audience: student
+department: phong-khao-thi-dbcl
 category: xu-ly-vi-pham
-articles: Điều 29
+language: vi
+articles: "Điều 29"
 source_type: pdf-scan-transcribed
 ---
 
 # Xử lý người học vi phạm quy chế thi
 
-## Điều 29. Xử lý người học vi phạm quy chế thi và đánh giá kết quả học tập
+> Trích Điều 29, Quy chế quản lý công tác thi và đánh giá kết quả học tập của Trường Đại học Công nghiệp TP. Hồ Chí Minh (ban hành kèm theo Quyết định số 610/QĐ-ĐHCN ngày 21/02/2025). Viết tắt: CBCT – cán bộ coi thi; GV – giảng viên.
 
-1. Người học vi phạm quy chế thi đều phải bị lập biên bản vi phạm và tùy theo mức độ vi phạm sẽ bị xử lý kỷ luật theo một trong các hình thức sau:
+## Điều 29. Hình thức, thủ tục xử lý người học vi phạm quy chế thi
 
-a) Khiển trách: Áp dụng đối với người học phạm lỗi một lần trong các trường hợp sau: nhìn bài của bạn hoặc cho bạn nhìn bài của mình; trao đổi ý kiến, thảo luận với người khác trong phòng thi sau khi CBCT đã nhắc nhở bằng lời nói; mang vào phòng thi các vật dụng không được phép nhưng chưa sử dụng và chưa gây hậu quả. Người học bị khiển trách trong khi thi học phần nào sẽ bị trừ 25% tổng số điểm của bài thi học phần đó.
+1. Hình thức xử lý người học dự thi vi phạm quy chế thi
 
-b) Cảnh cáo: Áp dụng đối với người học vi phạm một trong các lỗi sau: đã bị khiển trách một lần trong giờ thi của học phần đó nhưng vẫn tiếp tục vi phạm quy chế; trao đổi giấy nháp, bài thi cho bạn hoặc nhận giấy nháp, bài thi của bạn; chép bài thi của người khác hoặc để người khác chép bài của mình; sử dụng tài liệu học tập trong phòng thi đối với môn thi không được phép sử dụng tài liệu. Người học bị cảnh cáo trong khi thi học phần nào sẽ bị trừ 50% tổng số điểm của bài thi học phần đó.
+a) Khiển trách: Áp dụng đối với người học dự thi vi phạm một trong các lỗi như: nhìn bài của người khác, trao đổi bài trong quá trình thi, hoặc tiếp tục làm bài sau khi đã hết thời gian làm bài, người học dự thi sẽ bị xử lý kỷ luật ở mức khiển trách. Hình thức xử lý này đồng nghĩa với việc người học dự thi bị trừ 25% số điểm của toàn bài thi trong học phần dự thi.
 
-c) Đình chỉ thi: Áp dụng đối với người học vi phạm một trong các lỗi sau: mang tài liệu hoặc phương tiện bị cấm vào phòng thi; đưa đề thi ra ngoài khu vực thi hoặc nhận bài giải từ bên ngoài; đã bị cảnh cáo trong giờ thi của học phần đó mà vẫn vi phạm; viết, vẽ nội dung không liên quan vào bài thi; gây rối, đe dọa, xúc phạm CBCT hoặc người học khác; không chấp hành yêu cầu của CBCT về kỷ luật phòng thi. Người học bị đình chỉ thi trong ca thi môn nào thì bài thi môn đó bị điểm 0 (không). Người học bị đình chỉ thi phải nộp lại bài thi, đề thi, giấy nháp cho CBCT và lập tức rời khỏi phòng thi sau khi có quyết định đình chỉ thi của Trưởng Điểm thi hoặc Hội đồng thi.
+b) Cảnh cáo: Đối với người học dự thi vi phạm một trong các lỗi sau: đã từng bị xử lý kỷ luật bằng hình thức khiển trách nhưng vẫn tiếp tục vi phạm quy định trong giờ thi của cùng học phần; trao đổi bài làm hoặc giấy nháp với người khác; chép bài của người khác, thì sẽ bị xử lý kỷ luật với hình thức cảnh cáo. Trong trường hợp các bài thi bị CBCT hoặc cán bộ chấm thi kết luận là giống nhau, tất cả các bài thi đó sẽ bị xử lý như nhau. Tuy nhiên, nếu người bị xử lý có đủ bằng chứng để chứng minh mình là người bị quay cóp, CBCT hoặc cán bộ chấm thi có thể xem xét giảm nhẹ hoặc hủy bỏ hình thức xử lý vi phạm. Người học dự thi bị xử lý ở mức cảnh cáo sẽ bị trừ 50% số điểm của toàn bài thi trong học phần dự thi.
 
-2. Trừ điểm bài thi:
-- Người học bị khiển trách trong khi thi bài thi nào sẽ bị trừ 25% số điểm bài thi đó.
-- Người học bị cảnh cáo trong khi thi bài thi nào sẽ bị trừ 50% số điểm bài thi đó.
-- Bài thi có đánh dấu bị phát hiện trong khi chấm sẽ bị trừ 50% điểm toàn bài.
-- Cho điểm 0 (không) đối với: bài thi nộp hộ, nhờ người khác thi hộ; bài thi của người bị đình chỉ thi; bài thi chép từ các tài liệu mang trái phép vào phòng thi; bài thi có hai bài làm khác nhau cho một câu hoặc một môn; bài thi có chữ viết của từ hai người trở lên; những phần của bài thi viết trên giấy nháp hoặc giấy không đúng quy định.
+c) Đình chỉ thi: Hình thức đình chỉ thi được áp dụng đối với người học dự thi vi phạm một trong các lỗi sau: mang theo tài liệu hoặc phương tiện bị cấm vào phòng thi theo quy định tại khoản 3, Điều 13 của Quy chế; đưa đề thi ra ngoài khu vực thi hoặc nhận bài giải từ bên ngoài đưa vào phòng thi; đã từng bị xử lý kỷ luật bằng hình thức cảnh cáo trong giờ thi của học phần đó nhưng vẫn tiếp tục vi phạm; viết hoặc vẽ những nội dung không liên quan đến bài thi; có hành vi gây rối, lời nói hoặc cử chỉ đe dọa, xúc phạm CBCT, hoặc đe dọa người học dự thi khác; không chấp hành các yêu cầu của CBCT liên quan đến kỷ luật phòng thi. Người học bị xử lý kỷ luật ở mức đình chỉ thi sẽ bị chấm điểm 0 (không) cho học phần dự thi, buộc phải rời khỏi phòng thi ngay sau khi biên bản vi phạm được lập, đồng thời phải nộp lại bài làm và đề thi cho CBCT.
 
-3. Hủy kết quả thi và đình chỉ học tập:
-- Hủy bỏ kết quả thi của học phần đối với người học có hành vi gian lận thi cử có tổ chức, thi hộ hoặc nhờ người khác thi hộ.
-- Người học nhờ người khác thi hộ hoặc đi thi hộ người khác đều bị xử lý kỷ luật với hình thức đình chỉ học tập 01 năm đối với vi phạm lần đầu, và bị buộc thôi học nếu vi phạm lần thứ hai.
-- Trường hợp người đi thi hộ không phải là người học của Trường thì Nhà trường chuyển hồ sơ sang cơ quan công an có thẩm quyền để xử lý theo quy định của pháp luật.
+d) Xử lý người học thi hộ, nhờ người thi hộ: Đối với hành vi thi hộ hoặc nhờ người thi hộ, người học sẽ bị xử lý kỷ luật nghiêm khắc. Cụ thể, nếu vi phạm lần thứ nhất, người học sẽ bị đình chỉ học tập trong thời gian 01 năm. Trường hợp tái phạm, tức vi phạm lần thứ hai, hình thức kỷ luật sẽ là buộc thôi học.
 
-4. Đạo văn trong tiểu luận, đồ án, khóa luận tốt nghiệp:
-- Tiểu luận, bài tập lớn, đồ án môn học, khóa luận tốt nghiệp phải được kiểm tra tính trùng lặp qua phần mềm kiểm tra đạo văn trước khi chấm.
-- Nếu tỷ lệ trùng lặp vượt quá mức quy định của Trường (trên 25% không trích dẫn nguồn hợp lệ), người học phải chỉnh sửa và nộp lại theo thời hạn quy định hoặc bị hủy kết quả đánh giá tùy mức độ vi phạm.
+e) Xử lý người học đạo văn đối với tiểu luận, đồ án và các bài tập lớn thuộc điểm học phần: Trong trường hợp phát hiện người học sao chép hoặc trùng lặp nội dung trong bài làm, nếu là lần vi phạm đầu tiên, người học sẽ phải viết lại hoặc chỉnh sửa lại bài báo cáo, bài nộp, hoặc phần trình bày theo yêu cầu. Nếu vi phạm được phát hiện lần thứ hai - nghĩa là sau khi người học đã nộp lại bài sau lần kiểm tra và chỉnh sửa đầu tiên nhưng vẫn còn mức độ giống nhau trên 20%. Giảng viên phụ trách học phần sẽ lập biên bản và chuyển về khoa chủ quản học phần để xử lý theo quy định. Cụ thể, người học sẽ bị trừ điểm học phần, với tỷ lệ trừ điểm có thể được GV hoặc khoa thông báo cho người học ngay từ đầu học kỳ.
+
+2. Thủ tục xử lý người học vi phạm quy chế thi
+
+a) Khi phát hiện người học vi phạm, CBCT tiến hành lập biên bản (Mẫu 8), tịch thu tang vật (nếu có).
+
+b) Biên bản phải được tất cả CBCT và người học vi phạm ký tên. Nếu người học không ký, CBCT ghi rõ lý do và yêu cầu người học cùng buổi thi ký làm chứng sự việc.
+
+c) Hành vi vi phạm và hình thức xử lý vi phạm quy định thi của người học phải được ghi chú trên danh sách người học dự thi và trên túi đựng bài thi.

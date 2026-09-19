@@ -5,78 +5,52 @@ source_url: https://tqa.iuh.edu.vn/cong-tac-khao-thi/loai-hinh-thi-truc-tuyen/
 retrieved_at: 2026-09-19
 document_version: not-stated
 audience: all
+department: phong-khao-thi-dbcl
 category: hinh-thuc-thi
+language: vi
 source_type: html-crawled
 ---
 
 # Các loại hình thi trực tuyến
 
-Phòng Khảo thí và Đảm bảo chất lượng — Trường Đại học Công nghiệp TP. Hồ Chí Minh (IUH) hướng dẫn các loại hình thi kết thúc học phần theo hình thức trực tuyến (online) áp dụng cho các bậc đào tạo khi có thông báo tổ chức thi trực tuyến của Nhà trường.
+> Bài viết của Phòng Khảo thí và Đảm bảo Chất lượng, Trường Đại học Công nghiệp TP. Hồ Chí Minh (mục Công tác khảo thí). Nguồn không ghi ngày ban hành.
 
-## 1. Tổng quan về thi trực tuyến tại IUH
+## 1. Tự luận đề mở
 
-Tổ chức thi trực tuyến là phương thức đánh giá kết quả học tập của người học thông qua môi trường mạng máy tính và hệ thống phần mềm khảo thí trực tuyến của Nhà trường. Việc tổ chức thi trực tuyến phải đảm bảo tính khách quan, công bằng, chính xác, trung thực và phản ánh đúng năng lực của người học tương đương với phương thức thi tập trung trực tiếp.
+Đối với các bạn sinh viên gặp nhiều khó khăn trong vấn đề ghi nhớ các kiến thức, việc học bài để thi sẽ là một áp lực không hề nhỏ đặc biệt là các kì thi ở bậc đại học. Trong chương trình đào tạo đại học, khối lượng kiến thức cho mỗi học phần không chỉ rất lớn mà còn đòi hỏi sinh viên phải tự học, tự tra cứu các vấn đề thực tiễn liên quan thì mới lĩnh hội một cách sâu sắc các kiến thức được học. Do đó khối lượng kiến thức cần phải ôn tập cho mỗi kì thi là không hề nhỏ.
 
-Các hệ thống công nghệ phục vụ thi trực tuyến tại IUH gồm:
-- Hệ thống quản lý học tập trực tuyến (LMS - Learning Management System / E-learning IUH) tại địa chỉ lms.iuh.edu.vn.
-- Phần mềm khảo thí chuyên dụng và thi trắc nghiệm trực tuyến.
-- Phần mềm giám sát phòng thi và phòng thi ảo qua Microsoft Teams hoặc Zoom Workplace đã được xác thực bằng tài khoản định danh do Trường cấp.
+Trong các quan điểm giáo dục đạo học hiện đại, nhiều nhà nghiên cứu cho rằng không nên dạy cho sinh viên ghi nhớ kiến thức một cách máy móc, thuộc lòng mà cần dạy cho sinh viên cách học, cách tra cứu tài liệu và vận dụng các kiến thức đã học để giải quyết các vấn đề thực tế. Dạng bài kiểm tra tự luận đề mở là một lựa chọn tốt để thỏa mãn các yêu cầu trên, dạng bài thi tự luận đề mở còn phù hợp với hình thức thi trực tuyến trong điều kiện dịch Covid 19 diễn biến phức tạp như hiện nay vì hoàn toàn đảm bảo được tính chính xác, công bằng đối với sinh viên.
 
-## 2. Các loại hình thi trực tuyến áp dụng
+Khi làm bài thi kiểu này, sinh viên không phải áp lực học thuộc hay ghi nhớ các kiến thức đã học trong môn học thay vào đó sinh viên sẽ được phép tra cứu các kiến thức đã học trong các tài liệu và vận dụng các kiến thức đó vào giải quyết các bài toán, các tình huống thực tế hoặc phân tích, tổng hợp một vấn đề. Kiểm tra theo cách này sẽ giúp sinh viên có cơ hội thể hiện sự hiểu biết sâu sắc của mình đối với các kiến thức đã học trong chương trình, có cơ hội vận dụng các kiến thức đã học vào các tình huống thực tế và không phải học thuộc lòng một cách máy móc.
 
-Căn cứ vào đặc thù của từng môn học, chương trình đào tạo và chuẩn đầu ra của học phần, các đơn vị đào tạo áp dụng một trong các loại hình thi trực tuyến sau đây:
+Một ưu điểm khác của hình thức kiểm tra này là sinh viên có cơ hội thể hiện quan điểm cá nhân trước một vấn đề và phát triển tư duy phản biện đồng thời hạn chế việc sinh viên quay cóp bài của bạn.
 
-### 2.1. Loại hình 1: Thi trắc nghiệm trực tuyến (Online Multiple Choice Quiz)
-- Áp dụng đối với các học phần lý thuyết đại cương, cơ sở ngành có ngân hàng câu hỏi trắc nghiệm đã được chuẩn hóa và kiểm duyệt.
-- Người học làm bài trực tiếp trên hệ thống LMS hoặc phần mềm thi trắc nghiệm trực tuyến.
-- Đề thi được xáo trộn ngẫu nhiên thứ tự câu hỏi và thứ tự các đáp án lựa chọn cho từng thí sinh.
-- Thời gian làm bài: Từ 40 phút đến 60 phút tùy theo số lượng câu hỏi (thường từ 40 đến 60 câu).
-- Kết quả bài thi được hệ thống tự động chấm và công bố điểm thi ngay sau khi kết thúc ca thi hoặc theo lịch do Ban chỉ đạo thi quy định.
+## 2. Thi vấn đáp
 
-### 2.2. Loại hình 2: Thi tự luận kết hợp nộp bài trực tuyến (Online Written Exam)
-- Áp dụng cho các học phần đòi hỏi kỹ năng tính toán, phân tích, giải thuật, chứng minh hoặc viết luận chuyên sâu.
-- Đề thi được phát tự động đến từng thí sinh qua hệ thống LMS vào đúng thời điểm bắt đầu làm bài.
-- Người học làm bài làm trên giấy thi theo mẫu quy định của IUH (tự in hoặc viết tay rõ ràng trên giấy trắng khổ A4).
-- Hết thời gian làm bài, người học có tối đa 15 phút để chụp ảnh hoặc quét (scan) toàn bộ các trang bài làm thành một file định dạng PDF duy nhất và nộp lên hệ thống LMS theo hướng dẫn của CBCT.
-- CBCT và phần mềm kiểm tra thời điểm nộp bài. Mọi trường hợp nộp muộn sau thời gian quy định sẽ bị khóa cổng nộp hoặc bị trừ điểm theo quy chế.
+Kết quả kiểm tra đánh giá đôi khi không phản ánh đúng năng lực và sự cố gắng của sinh viên. Nhiều bạn sinh viên dù đã học hành rất chăm chỉ, ôn tập kỹ lưỡng nhưng trong bài kiểm tra diễn đạt không đủ tốt, không làm rõ vấn đề, lập luận thiếu chặt chẽ thì kết quả kiểm tra sẽ không cao. Nhiều sinh viên khi có kết quả kiểm tra còn rất bất ngờ và thậm chí đề nghị phúc khảo, tuy nhiên kết quả phúc khảo cho thấy việc chấm bài của các giảng viên là hoàn toàn chính xác. Vấn đề là ở cách trình bày của sinh viên trong bài thi viết không đáp ứng được các yêu cầu của đáp án.
 
-### 2.3. Loại hình 3: Thi vấn đáp trực tuyến (Online Oral Exam)
-- Áp dụng đối với các học phần ngoại ngữ (kỹ năng nói), học phần thực hành chuyên ngành hoặc các học phần đặc thù cần đánh giá khả năng phản xạ và bảo vệ luận điểm.
-- Thi theo hình thức một thầy một trò hoặc ban chấm thi gồm 02 giảng viên chấm thi trực tiếp cho từng người học qua phòng thi ảo riêng biệt trên Microsoft Teams.
-- Toàn bộ buổi thi vấn đáp được ghi hình (record) và lưu trữ dữ liệu âm thanh, hình ảnh vào kho lưu trữ số của Nhà trường để phục vụ công tác thanh tra, khảo thí và giải quyết khiếu nại, phúc khảo.
-- Thời lượng thi vấn đáp: Từ 10 phút đến 20 phút cho mỗi thí sinh (bao gồm thời gian chuẩn bị và thời gian trả lời câu hỏi trực tiếp).
+Đối với các sinh viên khi làm bài thi có những băng khoăn như không biết giảng viên chấm có hiểu đúng ý mình hay không và không biết câu trả lời của mình có đủ chặt chẽ để thuyết phục giảng viên chấm hay không thì thi vấn đáp chính là một giải pháp.
 
-### 2.4. Loại hình 4: Đánh giá tiểu luận, đồ án và bảo vệ trực tuyến (Project / Capstone Online Defense)
-- Áp dụng đối với các học phần đồ án môn học, tiểu luận chuyên ngành, bài tập lớn hoặc khóa luận tốt nghiệp.
-- Người học nộp báo cáo toàn văn (dạng file PDF) và sản phẩm đính kèm qua hệ thống LMS trước thời hạn quy định ít nhất 03 ngày làm việc.
-- Báo cáo phải được quét qua hệ thống phần mềm chống đạo văn (Turnitin / DoIT) và có xác nhận đáp ứng tiêu chuẩn tính liêm chính học thuật của giảng viên hướng dẫn.
-- Buổi bảo vệ và vấn đáp được tổ chức trực tuyến trước Hội đồng chấm thi gồm từ 02 đến 03 giảng viên theo hình thức trình chiếu slide và phản biện trực tiếp.
+Trong quá trình thi vấn đáp sinh viên được trình bày trực tiếp câu trả lời trước giảng viên chấm và nếu cần làm rõ thêm vấn đề giảng viên sẽ đặt các câu hỏi phụ hoặc thậm chí đưa ra những vấn đề cần sinh viên làm rõ hơn quan điểm và ý kiến của mình. Do đó sẽ không có trường hợp sinh viên hiểu vấn đề mà chỉ vì lỗi trình bày mà không được kết quả tương xứng. Sinh viên có thể chủ động giải thích và có thể tự sửa chữa các sai sót của mình nếu có để thuyết phục giảng viên.
 
-## 3. Yêu cầu về trang thiết bị và đường truyền đối với người học
+Thi vấn đáp còn là một cơ hội tốt để sinh viên rèn luyện kỹ năng giao tiếp, đối thoại và giúp sinh viên trở nên tự tin hơn. Đây là các kỹ năng mềm hết sức quan trọng khi sinh viên tốt nghiệp và tham gia thị trường lao động. Kỹ năng giao tiếp, đối thoại, đàm phán và sự tự tin sẽ giúp sinh viên gặt hái được nhiều thành công trong sự nghiệp.  Có thể nói thi vấn đáp là một cách chuẩn bị cho sinh viên sẵn sàng để tham gia thành công các buổi phỏng vấn việc làm sau này.
 
-Người học tham gia thi trực tuyến bắt buộc phải chuẩn bị đầy đủ các điều kiện kỹ thuật tối thiểu sau:
-- Máy vi tính để bàn (PC) hoặc máy tính xách tay (Laptop) có cấu hình hoạt động ổn định, có bàn phím, chuột và màn hình hiển thị tốt.
-- Thiết bị camera giám sát: Trang bị camera máy tính (webcam) tích hợp hoặc rời hoạt động liên tục; khuyến khích hoặc bắt buộc bố trí camera thứ hai (qua điện thoại thông minh) đặt ở góc nghiêng 45 độ phía sau lưng để quan sát toàn bộ không gian làm bài, màn hình máy tính và hai tay của thí sinh.
-- Thiết bị âm thanh: Microphone và loa hoạt động rõ ràng trong suốt thời gian thi. Nghiêm cấm sử dụng tai nghe (headphone/earphone) dưới bất kỳ hình thức nào trong giờ thi trừ khi có thông báo cho phép đặc biệt đối với môn thi kỹ năng nghe ngoại ngữ.
-- Đường truyền kết nối Internet: Tốc độ truy cập tối thiểu 10 Mbps ổn định; chuẩn bị phương án dự phòng 4G/5G khi xảy ra sự cố gián đoạn nguồn điện hoặc mạng gia đình.
-- Không gian thi cử: Phòng thi phải yên tĩnh, đủ ánh sáng, độc lập, không có người lạ qua lại hoặc hỗ trợ trong suốt thời gian làm bài thi.
+Ngoài ra, thi vấn đáp là hình thức thi có độ tin cậy cao trong trường hợp tổ chức thi trực tuyến vì khi đó, giáo viên sẽ hỏi thi trực tiếp từng sinh viên nên sẽ hạn chế các gian lận trong thi cử.
 
-## 4. Quy trình dự thi và trách nhiệm của người học trong ca thi trực tuyến
+## 3. Làm tiểu luận
 
-1. Trước giờ thi 30 phút: Người học đăng nhập vào tài khoản Microsoft Teams / LMS theo mã phòng thi đã được thông báo; bật camera và micro để CBCT điểm danh, kiểm tra căn cước công dân và kiểm tra toàn bộ không gian phòng thi xung quanh bàn làm bài.
+Trong nhiều trường hợp, thời gian thi là một rào cản đối với nhiều sinh viên vì trong thời gian thi không đủ dài để sinh viên có thể trình bày một cách tường tận sự hiểu biết của mình và có thể phân tích, liên hệ thực tế một cách thoải mái. Thời gian thi hạn chế còn dẫn đến việc không thể kiểm tra hết các kiến thức có trong chương trình học nên dễ dẫn đến việc sinh viên mặc dù nắm rất vững đa số các nội dung trong chương trình nhưng vì đề thi rơi vào những phần khác nên điểm số cũng không cao.
 
-2. Trong khi làm bài thi:
-- Phải duy trì camera và micro luôn bật trong trạng thái hoạt động suốt toàn bộ ca thi.
-- Không được tắt ứng dụng giám sát, không được mở các tab trình duyệt web hoặc ứng dụng tra cứu ngoài phạm vi quy định của môn thi.
-- Gương mặt và hai bàn tay của người học phải luôn nằm trong khung hình quan sát của camera giám sát.
-- Khi gặp sự cố kỹ thuật về đường truyền hoặc máy móc, phải thông báo ngay cho CBCT qua khung chat hoặc số điện thoại hỗ trợ khẩn cấp của Hội đồng thi.
+Làm tiểu luận có thể coi là một hình thức kiểm tra có nhiều lợi ích đối với sinh viên trong trường hợp nêu trên. Trong khi các hình thức thi viết hay vấn đáp đều có giới hạn về thời gian làm bài và vẫn còn yếu tố may rủi thì khi làm tiểu luận, sinh viên được giao đề tài và cho thời gian đủ dài để tra cứu, tham khảo các tài liệu liên quan do đó hoàn toàn loại trừ được yếu tố may rủi.
 
-3. Kết thúc ca thi:
-- Thực hiện nộp bài theo đúng hiệu lệnh của CBCT và đúng định dạng yêu cầu trên hệ thống LMS.
-- Chờ CBCT kiểm tra và xác nhận đã nhận đủ bài nộp trên hệ thống thành công trước khi được phép rời khỏi phòng thi trực tuyến.
+Ngoài việc giúp sinh viên đạt các chuẩn đầu ra về mặt nhận thức của môn học việc làm tiểu luận còn có tác dụng giúp sinh viên biết các xây dựng kế hoạch, xây dựng đề cương cho một báo cáo, rèn luyện kỹ năng trình bày văn bản, kỹ năng sử dụng ngôn ngữ viết. Khi làm tiểu luận toàn bộ quan điểm, ý tưởng của sinh viên sẽ được thiết kế, triển khai và trình bày một cách đầy đủ, có hệ thống. Có thể nói đây là hình thức thi có thể giúp sinh viên đạt được kết quả học tập tốt nhất theo khả năng của mình.
 
-## 5. Xử lý vi phạm trong thi trực tuyến
+## 4. Làm tiểu luận có báo cáo
 
-Mọi hành vi gian lận trong thi trực tuyến đều bị xử lý nghiêm minh theo Điều 29 Quy chế quản lý công tác thi của IUH:
-- Tắt camera hoặc micro quá 03 phút mà không có lý do chính đáng hoặc không được sự đồng ý của CBCT bị lập biên bản và trừ 50% số điểm bài thi.
-- Mở tài liệu trái phép, chia sẻ màn hình, nhờ người khác ngồi cạnh hỗ trợ hoặc làm bài hộ đều bị lập biên bản đình chỉ thi, nhận điểm 0 cho học phần và kỷ luật theo quy định hiện hành.
+Đối với các môn học mà chuẩn đầu ra bao gồm kỹ năng thuyết trình, kỹ năng làm việc nhóm thì các hình thức thi kể trên đều chưa thể giúp đánh giá mức độ đạt các chuẩn đầu ra này. Rõ ràng, tùy thuộc vào chuẩn đầu ra môn học mà hoạt động đánh giá sinh viên cần được thiết kế cho phù hợp. Làm tiểu luận có báo cáo là một hình thức thi có thể giúp giảng viên đánh giá được nhiều chuẩn đầu ra môn học, đặc biệt là các chuẩn đầu ra về kỹ năng mềm hoặc thái độ.
+
+Ngoài các ưu điểm của việc làm tiểu luận đã trình bày ở trên thì việc tổ chức cho sinh viên làm báo cáo và thuyết trình báo cáo trước tập thể và giáo viên sẽ giúp sinh viên có cơ hội rèn luyện kỹ năng xây dựng báo cáo, kỹ năng sử dụng các công cụ trình chiếu, kỹ năng thuyết trình trước đám đông và kỹ năng giao tiếp.
+
+Nếu tiểu luận và tiểu luận có báo cáo được giao cho sinh viên làm việc theo nhóm thì sinh viên còn được phối hợp, hỗ trợ nhau để hoàn thành công việc và có cơ hội rèn luyện kỹ năng làm việc theo nhóm. Nếu được tổ chức tốt, một nhóm sinh viên sẽ khai thác được thế mạnh của mỗi thành viên để hoàn thành tiểu luận và báo cáo một cách tốt nhất.
+
+Trước đây, một vấn đề tồn tại khiến cho nhiều giảng viên đắn đo khi chọn hình thức làm tiểu luận để đánh giá sinh viên là vấn đề đạo văn. Nhiều sinh viên khi được giao đề tài đã tìm kiếm các đề tài tương tự và sao chép kết quả của người khác. Tuy nhiên, hiện nay với nhiều phần mềm chống đạo văn được xây dựng bài bản, giảng viên hoàn toàn có thể kiểm tra việc đạo văn của sinh viên và hạn chế được vấn đề này.

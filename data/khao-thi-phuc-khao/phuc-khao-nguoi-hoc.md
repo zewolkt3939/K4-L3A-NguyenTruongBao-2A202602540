@@ -1,35 +1,29 @@
 ---
 doc_id: phuc-khao-nguoi-hoc
-title: Phúc khảo — quy định dành cho người học
+title: Phúc khảo điểm thi - quy định dành cho người học
 source_url: https://tqa.iuh.edu.vn/wp-content/uploads/2025/12/Quyet-dinh-so-610-QD-DHCN-ve-viec-ban-hanh-Quy-che-quan-ly-cong-tac-thi-va-danh-gia-ket-qua-hoc-tap..pdf
 retrieved_at: 2026-09-19
-document_version: 610/QĐ-ĐHCN ngày 21/02/2025
+document_version: "610/QĐ-ĐHCN ngày 21/02/2025"
 audience: student
+department: phong-khao-thi-dbcl
 category: phuc-khao
-articles: Điều 26 (khoản 1, 2c, 3, 5)
+language: vi
+articles: "Điều 26 (khoản 1, 2c, 3, 5)"
 source_type: pdf-scan-transcribed
 ---
 
-# Phúc khảo — quy định dành cho người học
+# Phúc khảo điểm thi - quy định dành cho người học
 
-## Điều 26. Tiếp nhận và giải quyết khiếu nại, phúc khảo điểm thi của người học
+> Trích các khoản dành cho người học trong Điều 26, Quy chế quản lý công tác thi và đánh giá kết quả học tập của Trường Đại học Công nghiệp TP. Hồ Chí Minh (ban hành kèm theo Quyết định số 610/QĐ-ĐHCN ngày 21/02/2025). Các khoản dành cho giảng viên, bộ môn nằm trong tài liệu "Phúc khảo điểm thi - quy định dành cho giảng viên và đơn vị". Viết tắt: Phòng KT&ĐBCL – Phòng Khảo thí và Đảm bảo chất lượng.
 
-1. Người học có quyền làm đơn xin phúc khảo bài thi kết thúc học phần nếu có nghi ngờ về kết quả chấm thi hoặc phát hiện có sai sót trong việc cộng điểm bài thi.
+## Điều 26. Phúc khảo
 
-2. Quy trình và thời hạn nộp đơn phúc khảo:
-- Người học làm đơn xin phúc khảo điểm thi theo mẫu quy định của Nhà trường (Mẫu 12 ban hành kèm theo Quy chế).
-- Chuyển đơn cùng phiếu đóng tiền phúc khảo (biên lai nộp lệ phí) đến bộ phận giáo vụ Khoa/Viện của đơn vị chủ quản học phần trong vòng 14 ngày làm việc kể từ ngày điểm thi được công bố chính thức trên cổng thông tin đào tạo.
-- Trường hợp nộp muộn hơn 14 ngày làm việc, người học phải có lý do chính đáng và phải có sự đồng ý bằng văn bản của Trưởng đơn vị chủ quản học phần mới được tiếp nhận giải quyết.
+1. Sau khi điểm số được công bố trên hệ thống của Nhà trường, người học dự thi làm đơn phúc khảo điểm thi (Mẫu 12) và chuyển đơn phúc khảo, phiếu đóng tiền phúc khảo đến giáo vụ Khoa/Viện của đơn vị chủ quản học phần trong vòng 14 ngày làm việc, kể từ ngày điểm thi được công bố. Nếu người học nộp đơn phúc khảo muộn hơn 14 ngày làm việc, phải có sự đồng ý Trưởng đơn vị chủ quản học phần thi mới được xem xét, giải quyết.
 
-3. Mức thu lệ phí phúc khảo bài thi:
-- Người học phải nộp lệ phí phúc khảo theo quy định mức thu hiện hành của Trường Đại học Công nghiệp TP. Hồ Chí Minh.
-- Tiền lệ phí phúc khảo được nộp trực tiếp tại Phòng Tài chính - Kế toán hoặc qua cổng thanh toán điện tử của trường.
+2. Đối với môn thi tự luận
 
-4. Xử lý kết quả và hoàn trả lệ phí:
-- Kết quả chấm phúc khảo được thông báo chính thức cho người học trên cổng thông tin và bảng tin của đơn vị chủ quản học phần.
-- Điểm chấm phúc khảo là điểm kết luận chính thức của bài thi kết thúc học phần và được cập nhật vào hệ thống điểm của người học.
-- Trường hợp sau khi chấm phúc khảo, điểm bài thi của người học có sự thay đổi theo hướng tăng điểm số (dù tăng ở bất kỳ mức điểm nào do chấm sót hoặc cộng nhầm điểm), người học sẽ được Nhà trường hoàn trả lại 100% tiền lệ phí phúc khảo đã nộp.
+c) Đơn vị chủ quản học phần có trách nhiệm thông báo kết quả phúc khảo tới người học dự thi trong vòng 07 ngày làm việc, kể từ ngày nhận được đơn phúc khảo.
 
-5. Các trường hợp không giải quyết phúc khảo:
-- Không nhận đơn phúc khảo đối với các học phần đánh giá bằng hình thức thi vấn đáp, thực hành, thí nghiệm, đồ án môn học, khóa luận tốt nghiệp.
-- Không nhận đơn phúc khảo đối với các bài thi đã bị lập biên bản xử lý kỷ luật từ mức cảnh cáo trở lên trong phòng thi.
+3. Đối với môn thi trắc nghiệm: Phòng KT&ĐBCL phân công chuyên viên chấm phúc khảo. Phòng KT&ĐBCL tiến hành chấm phúc khảo theo đúng quy trình phúc khảo và trả kết quả phúc khảo cho người nộp hồ sơ phúc khảo trong vòng 2 ngày làm việc sau khi nhận hồ sơ phúc khảo.
+
+5. Đối với môn thi vấn đáp, thuyết trình, tiểu luận, đồ án và khóa luận tốt nghiệp sẽ không chấm phúc khảo. Mọi thắc mắc, người học dự thi liên hệ trực tiếp với người chấm để được giải đáp.

@@ -3,50 +3,55 @@ doc_id: can-bo-coi-thi
 title: Trách nhiệm của cán bộ coi thi
 source_url: https://tqa.iuh.edu.vn/wp-content/uploads/2025/12/Quyet-dinh-so-610-QD-DHCN-ve-viec-ban-hanh-Quy-che-quan-ly-cong-tac-thi-va-danh-gia-ket-qua-hoc-tap..pdf
 retrieved_at: 2026-09-19
-document_version: 610/QĐ-ĐHCN ngày 21/02/2025
+document_version: "610/QĐ-ĐHCN ngày 21/02/2025"
 audience: faculty
+department: phong-khao-thi-dbcl
 category: to-chuc-thi
-articles: Điều 10 (khoản 3), Điều 11
+language: vi
+articles: "Điều 10 (khoản 3), Điều 11"
 source_type: pdf-scan-transcribed
 ---
 
 # Trách nhiệm của cán bộ coi thi
 
-## Điều 10. Tiêu chuẩn và phân công cán bộ coi thi
+> Trích Điều 10 (khoản 3) và Điều 11, Quy chế quản lý công tác thi và đánh giá kết quả học tập của Trường Đại học Công nghiệp TP. Hồ Chí Minh (ban hành kèm theo Quyết định số 610/QĐ-ĐHCN ngày 21/02/2025). Viết tắt: CBCT – cán bộ coi thi; GV – giảng viên; Phòng KT&ĐBCL – Phòng Khảo thí và Đảm bảo chất lượng.
 
-1. Cán bộ coi thi (CBCT) là giảng viên, nghiên cứu viên, viên chức, nhân viên của Trường Đại học Công nghiệp TP. Hồ Chí Minh được Hiệu trưởng hoặc Trưởng ban Điều hành coi thi phân công thực hiện nhiệm vụ giám sát trong các kỳ thi kết thúc học phần.
+## Điều 10. Bố trí phòng thi (trích khoản 3)
 
-2. Cán bộ coi thi phải nắm vững quy chế khảo thí, có tinh thần trách nhiệm cao, trung thực, khách quan và tuân thủ nghiêm ngặt lịch điều động coi thi.
+3. Quy định về số lượng cán bộ coi thi trong 01 phòng thi
 
-3. Những người không được phân công làm cán bộ coi thi:
-- Người có người thân (cha, mẹ, vợ, chồng, con, anh, chị, em ruột, anh chị em ruột của vợ hoặc chồng) đang tham gia dự thi trong đợt thi hoặc tại phòng thi được phân công;
-- Cán bộ đang trong thời gian bị kỷ luật hoặc đang bị xem xét kỷ luật liên quan đến công tác khảo thí, đào tạo;
-- Giảng viên phụ trách giảng dạy trực tiếp học phần đó trong học kỳ không được phân công làm CBCT chính tại phòng thi môn học của mình (trừ trường hợp thi vấn đáp hoặc thực hành theo đặc thù môn học).
+a) Mỗi phòng thi được bố trí ít nhất 02 cán bộ coi thi.
 
-## Điều 11. Trách nhiệm cụ thể của cán bộ coi thi trong ca thi
+b) Các trường hợp phát sinh phải có sự phê duyệt của lãnh đạo đơn vị và Phòng Đào tạo/Viện ĐTQT&SĐH.
 
-1. Chuẩn bị trước giờ thi:
-- CBCT phải có mặt tại Văn phòng Hội đồng thi trước giờ thi ít nhất 30 phút để nhận nhiệm vụ, túi tài liệu phòng thi, danh sách thí sinh, túi đề thi còn nguyên niêm phong, giấy thi và giấy nháp.
-- Kiểm tra phòng thi, vệ sinh phòng thi, xóa bảng đen và yêu cầu mở rộng các cửa ra vào, cửa sổ đảm bảo đủ ánh sáng và thông thoáng.
-- Kiểm tra số lượng thí sinh, gọi thí sinh vào phòng thi theo đúng số báo danh và danh sách dự thi; đối chiếu Thẻ sinh viên hoặc giấy tờ tùy thân có dán ảnh hợp lệ.
-- Hướng dẫn thí sinh ngồi đúng vị trí quy định; yêu cầu thí sinh để toàn bộ túi xách, tài liệu, ba lô, điện thoại di động và các thiết bị thu phát thông tin tại giá để đồ ở phía ngoài hoặc khu vực quy định của phòng thi.
+## Điều 11. Trách nhiệm của cán bộ coi thi
 
-2. Trước khi phát đề thi:
-- Phổ biến ngắn gọn các quy định cốt lõi của phòng thi, đặc biệt là các hành vi bị cấm và hậu quả bị đình chỉ thi nếu mang điện thoại di động vào bàn thi.
-- Ký tên xác nhận vào ô quy định trên toàn bộ số tờ giấy thi và giấy nháp trước khi phát cho thí sinh. Không được ký khống hoặc ký trước vào giấy thi khi chưa phát cho thí sinh.
-- Mở túi đề thi đúng giờ quy định trước sự chứng kiến và ký xác nhận của 02 thí sinh đại diện trong phòng thi.
-- Kiểm tra số lượng đề thi, môn thi, mã đề thi. Phát đề thi cho từng thí sinh theo sơ đồ phát đề (đối với đề thi trắc nghiệm có nhiều mã đề xen kẽ).
+Cán bộ coi thi phải là GV giảng dạy hoặc nhân viên hành chính tại các Khoa, Viện, Phòng ban, Trung tâm của Nhà trường. Trường hợp gặp khó khăn trong việc điều động CBCT, đơn vị đào tạo liên hệ Phòng Tổ chức - Hành chính để được hỗ trợ. CBCT phải thực hiện nghiêm túc các nội dung sau:
 
-3. Trong thời gian làm bài thi:
-- CBCT phải giám sát phòng thi nghiêm túc, bao quát toàn bộ khu vực phòng thi; một CBCT bao quát từ phía trên và một CBCT bao quát từ phía dưới phòng thi.
-- Không được làm việc riêng trong phòng thi: không đọc sách báo, không sử dụng điện thoại di động, không sử dụng máy tính xách tay, không nói chuyện riêng hoặc giải thích đề thi cho thí sinh.
-- Chỉ giải quyết cho từng thí sinh ra ngoài phòng thi trong trường hợp thực sự cấp bách khi có sự đồng ý của CBCT ngoài hành lang giám sát.
-- Xử lý tình huống thí sinh ra về sớm: Đối với môn thi tự luận, thí sinh chỉ được phép rời khỏi phòng thi sớm nhất sau khi đã qua 2/3 thời gian làm bài của môn thi. Khi ra về sớm, thí sinh phải nộp lại toàn bộ bài làm, đề thi và giấy nháp đã phát, ký tên xác nhận vào danh sách nộp bài. Đối với môn thi trắc nghiệm, thí sinh không được phép rời phòng thi trước khi hết giờ làm bài thi.
-- Xử lý vi phạm quy chế: Khi phát hiện thí sinh vi phạm quy chế phòng thi, CBCT phải lập biên bản vi phạm tại chỗ, thu giữ tang vật (nếu có), đình chỉ thi hoặc cảnh cáo theo đúng thẩm quyền quy định tại Điều 29 và báo ngay cho Ban Thanh tra khảo thí.
+1. Cán bộ coi thi 1 nhận túi đề thi tại Phòng KT&ĐBCL. Trường hợp số lượng đề thi nhiều, thi tập trung đơn vị chủ quản học phần có thể nhận trước, lưu trữ tại văn phòng đơn vị và chịu trách nhiệm đảm bảo tính bảo mật của đề thi. Khi nhận túi đề thi phải mang bảng tên để Phòng KT&ĐBCL nhận biết và bàn giao đề thi. Khi nhận túi đề thi, người nhận phải ký tên, ghi rõ họ tên, ngày, giờ nhận vào sổ bàn giao túi đề thi tại Phòng KT&ĐBCL.
 
-4. Khi hết giờ làm bài thi:
-- CBCT thông báo hiệu lệnh hết giờ làm bài, yêu cầu toàn bộ thí sinh ngừng viết và đặt bút xuống bàn.
-- Một CBCT duy trì trật tự phòng thi, một CBCT tiến hành thu bài thi. Thu bài lần lượt theo số báo danh từ nhỏ đến lớn.
-- Đếm đủ số bài thi, số tờ giấy thi của từng bài, đối chiếu với danh sách thí sinh dự thi và yêu cầu từng thí sinh ký tên xác nhận vào bảng danh sách nộp bài thi.
-- Chỉ cho phép thí sinh rời khỏi phòng thi sau khi đã kiểm đếm chính xác số bài thi và số tờ giấy thi khớp với danh sách thí sinh có mặt dự thi.
-- Bỏ bài thi vào túi đựng bài thi, niêm phong túi bài thi tại phòng thi với sự chứng kiến và ký tên của 02 thí sinh cuối cùng. Bàn giao túi bài thi, đề thi thừa và hồ sơ ca thi cho Thư ký Hội đồng thi ngay sau khi kết thúc ca thi.
+a) Cán bộ coi thi 1 đánh số báo danh theo (Mẫu 9), chọn 01 trong các phương án Quy định về đánh số báo danh trong phòng thi. Phương án đánh số báo danh của người học dự thi trong phòng thi được CBCT chọn ngẫu nhiên theo một trong các phương án theo (Mẫu 9).
+
+b) Số báo danh của mỗi người học dự thi là số thứ tự của người học trong Danh sách sinh viên dự thi (giữa kỳ, cuối kỳ) được in từ phần mềm PMT-EMS Education.
+
+2. Cán bộ coi thi 2 gọi người học dự thi vào phòng thi theo danh sách dự thi, kiểm tra thẻ sinh viên, thẻ học viên hoặc giấy tờ tùy thân có dán ảnh, không cho vào phòng thi đối với những cá nhân không có tên trong danh sách dự thi hoặc không có giấy tờ tùy thân đúng quy định (trong những trường hợp đặc biệt, CBCT lập biên bản và cho người học được dự thi). CBCT hướng dẫn người học dự thi để vật dụng cá nhân đúng nơi quy định. Không để người học dự thi mang cặp, túi xách, tài liệu, máy laptop, điện thoại di động và các thiết bị có kết nối internet vào chỗ ngồi. Nếu đề thi cho phép sử dụng tài liệu thì chỉ cho phép mang tài liệu được quy định trong đề thi, trong trường hợp đề thi không quy định cụ thể thì cho phép người học dự thi mang các tài liệu giấy vào phòng thi.
+
+3. Cán bộ coi thi 1 làm thủ tục cho người học dự thi xác nhận túi đề thi còn niêm phong, làm biên bản mở túi đề thi và phát đề thi cho người học dự thi. Trước khi phát, phải kiểm tra số lượng đề thi (thừa, thiếu, nhầm lẫn đề). Nếu thiếu hoặc nhầm lẫn đề thi, CBCT 1 phải báo ngay cho Phòng KT&ĐBCL để kịp thời xử lý.
+
+4. Khi người học bắt đầu làm bài, CBCT kiểm tra, đối chiếu thẻ sinh viên, thẻ học viên hoặc giấy tờ tùy thân của người học gạch tên các người học dự thi vắng trong danh sách dự thi, ký tên vào giấy thi. Tuyệt đối không cho người học dự thi ký tên nộp bài vào danh sách dự thi trước khi thu bài thi. Trong giờ làm bài, hai CBCT phải chia nhau vị trí giám sát (đầu phòng thi và cuối phòng thi) bao quát từ đầu phòng đến cuối phòng thi. Khi người học có thắc mắc, CBCT chỉ được trả lời công khai trong phạm vi quy định.
+
+5. Khi hết giờ làm bài, CBCT yêu cầu người học bỏ bút xuống bàn và tiến hành thu bài. Một CBCT gọi người học dự thi lên nộp bài và đề thi (đối với các môn thi trắc nghiệm) và yêu cầu người học ký tên vào danh sách dự thi, CBCT còn lại duy trì trật tự phòng thi. Chỉ cho phép người học dự thi rời phòng thi sau khi đã thu toàn bộ bài thi và kiểm tra đủ số bài thi so với chữ ký nộp bài.
+
+6. Đối với các môn thi tự luận, CBCT chỉ cho người học dự thi ra về sau 2/3 thời gian làm bài (CBCT thu lại đề thi của người học dự thi ra về sớm đối với môn thi tự luận). Đối với môn thi trắc nghiệm, phải hết giờ làm bài, CBCT mới cho phép người học dự thi ra khỏi phòng thi (trừ các trường hợp ốm đau đột xuất).
+
+7. Cán bộ coi thi phải lập biên bản người học dự thi gian lận trong khi thi, kiểm tra (nếu có), ghi rõ hình thức xử lý và cho vào trong túi đựng bài thi (Mẫu 8). Đối với môn thi trắc nghiệm, CBCT tô trực tiếp vào giấy làm bài của người học dự thi về mức độ vi phạm, ký xác nhận và ghi rõ họ tên CBCT xử lý vi phạm để phần mềm tự động trừ điểm thi.
+
+8. Đối với thi giữa kỳ: Sau mỗi buổi thi, CBCT bàn giao bài thi và đề thi trắc nghiệm về Phòng KT&ĐBCL, bàn giao bài thi tự luận hoặc phiếu chấm các hình thức khác cho GV phụ trách lớp.
+
+9. Đối với thi kết thúc học phần: Sau mỗi buổi thi, CBCT bàn giao bài thi tự luận, bài thi và đề thi trắc nghiệm cho Phòng KT&ĐBCL, bàn giao đề thi vấn đáp và các phiếu chấm điểm cho GV phụ trách lớp (hoặc giáo vụ).
+
+10. Đối với thi vấn đáp, mỗi phòng thi cần bố trí ít nhất 02 CBCT chịu trách nhiệm hỏi thi (gọi là Giám khảo vấn đáp) và một CBCT chịu trách nhiệm điều hành. CBCT điều hành chịu trách nhiệm gọi người học vào phòng thi, kiểm tra tư cách người học dự thi, cho người học bốc thăm đề thi và kiểm soát thời gian chuẩn bị bài của người học dự thi. Giám thị điều hành có trách nhiệm tính toán thời gian để gọi người học dự thi vào phòng thi sao cho mỗi người học dự thi có đủ thời gian chuẩn bị theo quy định và các GV hỏi thi không phải chờ đợi người học dự thi để tối ưu hóa thời gian coi thi. Các GV hỏi thi chịu trách nhiệm hỏi và cho điểm người học dự thi dựa vào đề thi mà người học dự thi bốc thăm được và chịu trách nhiệm kiểm soát thời gian hỏi thi cho mỗi người học dự thi.
+
+11. Đối với hình thức thuyết trình, mỗi phòng thi cần có 02 CBCT chịu trách nhiệm chấm điểm cho người học dự thi. CBCT dành 10 phút để cho người học dự thi chuẩn bị và thử máy trước khi bắt đầu thuyết trình. Việc thuyết trình và chấm thuyết trình được tiến hành công khai và cho phép các người học dự thi khác tham dự. Nếu trong quá trình tổ chức thi có xảy ra sự cố kỹ thuật thì CBCT báo cho các đơn vị liên quan để xử lý và cộng thêm thời gian cho ca thi đó để các người học dự thi báo cáo sau vẫn đảm bảo được trình bày và trả lời câu hỏi trong thời gian cho phép theo quy định.
+
+12. Đối với báo cáo khóa luận và bảo vệ luận văn, luận án, công tác tổ chức và chấm điểm được thực hiện theo quy chế đào tạo của hệ đào tạo tương ứng.
