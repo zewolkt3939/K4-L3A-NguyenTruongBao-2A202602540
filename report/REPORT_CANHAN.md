@@ -1,8 +1,9 @@
 # Báo Cáo Cá Nhân — Lab 7: Embedding & Vector Store
 
-**Họ tên:** [Tên sinh viên]
-**Nhóm:** [Tên nhóm]
-**Ngày:** [Ngày nộp]
+**Họ tên:** Nguyễn Trường Bảo
+**Mã số học viên (MSHV):** 2A202602540
+**Nhóm:** Nhóm 03 — L3A (Quy định & Dịch vụ Đại học)
+**Ngày:** 2026-09-19
 
 > **Nộp 1 bản / sinh viên.** Phần nhóm (lựa chọn tài liệu, thiết kế chiến lược, bộ câu hỏi đánh giá, demo) nộp chung 1 bản trong `REPORT_NHOM.md`. Chi tiết thang điểm: `docs/SCORING.md`.
 
@@ -15,12 +16,12 @@
 ### Độ tương tự Cosine (Cosine Similarity) (Bài tập 1.1)
 
 **Độ tương tự cosine cao (High cosine similarity) nghĩa là gì?**
-> *Viết 1-2 câu:*
+> Độ tương tự cosine đo góc giữa hai vector trong không gian đa chiều thay vì khoảng cách hình học. Độ tương tự cosine cao (tiến gần 1.0) nghĩa là hai vector chỉ về cùng một hướng, thể hiện hai đoạn văn bản có sự tương đồng rất lớn về mặt ngữ nghĩa và chủ đề, bất kể độ dài hay số lượng từ của chúng khác nhau.
 
 **Ví dụ có độ tương tự CAO:**
-- Câu A:
-- Câu B:
-- Tại sao tương đồng:
+- Câu A: "Sinh viên nộp học phí trước 17:00 ngày thứ Sáu của tuần thứ 4 trong học kỳ chính."
+- Câu B: "Hạn chót thanh toán tiền học kỳ của sinh viên là vào chiều thứ Sáu tuần 4."
+- Tại sao tương đồng: Dù sử dụng từ vựng khác biệt ("nộp học phí" vs "thanh toán tiền học kỳ", "trước 17:00 ngày thứ Sáu của tuần thứ 4" vs "chiều thứ Sáu tuần 4"), cả hai câu đều biểu đạt cùng một quy định, mốc thời gian và đối tượng hành động.
 
 **Ví dụ có độ tương tự THẤP:**
 - Câu A:
