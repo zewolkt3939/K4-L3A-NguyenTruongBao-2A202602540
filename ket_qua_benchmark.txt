@@ -1,0 +1,38 @@
+================================================================================
+BẢNG KẾT QUẢ TỔNG HỢP BENCHMARK TRUY XUẤT NHÓM G43 — LAB 07
+Chủ đề: Khảo thí và Phúc khảo — IUH | Backend: mock embeddings fallback
+Tập dữ liệu: 10 tài liệu tại data\khao-thi-phuc-khao
+================================================================================
+Thành viên           | Chiến lược                       | Chunks  | Điểm (/10)
+--------------------------------------------------------------------------------
+Nguyễn Trường Bảo    | FixedSize (500, overlap 100)     | 84      |  5/10
+Phạm Cường Quốc      | Recursive (500)                  | 95      |  6/10
+Đỗ Đức Đại           | Heading v1 (500, drop_notes=False) | 100     |  5/10
+Đỗ Đức Đại           | Heading v2 (500, drop_notes=True) | 100     |  7/10
+Đỗ Ngọc Phi          | Sentence (3 câu/chunk)           | 97      |  6/10
+================================================================================
+
+================================================================================
+THỬ NGHIỆM A/B: METADATA FILTERING TRÊN CÂU HỎI #1
+Query: 'Tôi muốn phúc khảo bài thi tự luận thì phải làm gì và trong thời hạn bao lâu?'
+================================================================================
+1. Khi KHÔNG CÓ filter audience=student:
+   - Cả 5 cấu hình đều đạt 0/2 điểm.
+   - Cụm từ 'trong thời hạn bao lâu' kéo nhầm các chunk về thời lượng thi (Điều 6) và hạn nộp tiểu luận.
+2. Khi CÓ filter audience=student:
+   - Ứng viên giảm từ 118 xuống 24 chunk (Recursive).
+   - RecursiveChunker và HeadingChunker v2 đạt 2/2 điểm trọn vẹn.
+
+[CẢNH BÁO TÁC DỤNG PHỤ CỦA FILTER]:
+   - Với câu thăm dò: 'Thi tự luận thì sinh viên được ra về sớm khi nào?'
+   - Không filter: chunk Điều 11 khoản 6 (2/3 thời gian) nằm ở top 3-6 (Sentence: top 3).
+   - Có filter student: chunk này BIẾN MẤT HOÀN TOÀN vì nằm trong can-bo-coi-thi (audience=faculty).
+================================================================================
+
+DEMO KNOWLEDGE BASE AGENT VỚI CÂU HỎI PHÚC KHẢO (Q1):
+[AGENT ANSWER] Căn cứ theo Điều 26 Quy chế quản lý công tác thi (QĐ 610/QĐ-ĐHCN) [1]:
+- Người học làm đơn phúc khảo điểm thi theo Mẫu 12.
+- Nộp đơn kèm phiếu đóng tiền phúc khảo đến giáo vụ Khoa/Viện trong vòng 14 ngày làm việc kể từ ngày công bố điểm thi.
+- Nộp muộn hơn phải được Trưởng đơn vị chủ quản học phần đồng ý.
+
+================================================================================

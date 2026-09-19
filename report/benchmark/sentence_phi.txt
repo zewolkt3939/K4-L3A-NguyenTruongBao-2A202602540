@@ -1,0 +1,58 @@
+================================================================================
+KẾT QUẢ ĐÁNH GIÁ CHIẾN LƯỢC: Sentence (3 câu/chunk)
+Thành viên thực hiện: Đỗ Ngọc Phi (MSSV: 2A202602531)
+Chủ đề: Khảo thí và Phúc khảo — IUH (Quy chế 610/QĐ-ĐHCN)
+Tổng số chunk được tạo ra: 97
+================================================================================
+
+--- Câu hỏi #1 (1/2 điểm) ---
+Query: Tôi muốn phúc khảo bài thi tự luận thì phải làm gì và trong thời hạn bao lâu?
+Gold Document: phuc-khao-nguoi-hoc (Điều 26 khoản 1)
+Gold Answer: Làm đơn phúc khảo điểm thi (Mẫu 12), chuyển đơn cùng phiếu đóng tiền phúc khảo đến giáo vụ Khoa/Viện của đơn vị chủ quản học phần trong vòng 14 ngày làm việc kể từ ngày điểm thi được công bố. Nộp muộn hơn thì phải được Trưởng đơn vị chủ quản học phần đồng ý.
+Filter áp dụng: {'audience': 'student'}
+Top-3 Chunks:
+  [1] Score: 0.2301 | doc_id: xu-ly-vi-pham-nguoi-hoc | Preview: - Bài thi có đánh dấu bị phát hiện trong khi chấm sẽ bị trừ 50% điểm toàn bài. - Cho điểm 0 (không) đối với: bài thi nộp hộ, nhờ người khác ...
+  [2] Score: 0.2047 | doc_id: xu-ly-vi-pham-nguoi-hoc | Preview: 4. Đạo văn trong tiểu luận, đồ án, khóa luận tốt nghiệp: - Tiểu luận, bài tập lớn, đồ án môn học, khóa luận tốt nghiệp phải được kiểm tra tí...
+  [3] Score: 0.2022 | doc_id: phuc-khao-nguoi-hoc | Preview: Xử lý kết quả và hoàn trả lệ phí: - Kết quả chấm phúc khảo được thông báo chính thức cho người học trên cổng thông tin và bảng tin của đơn v...
+
+--- Câu hỏi #2 (2/2 điểm) ---
+Query: Thời lượng tối đa của một bài thi tự luận là bao nhiêu phút?
+Gold Document: hinh-thuc-thoi-luong-thi (Điều 6 khoản 4d)
+Gold Answer: Tối thiểu 50 phút và tối đa 120 phút, tùy số tín chỉ của học phần và số câu hỏi trong đề.
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.3841 | doc_id: cham-thi | Preview: Điểm thi được công bố và ghi nhận vào biên bản ngay sau khi kết thúc ca thi thực hành. ## Điều 24. Chấm thi tiểu luận, đồ án  1....
+  [2] Score: 0.3441 | doc_id: can-bo-coi-thi | Preview: - Kiểm tra số lượng thí sinh, gọi thí sinh vào phòng thi theo đúng số báo danh và danh sách dự thi; đối chiếu Thẻ sinh viên hoặc giấy tờ tùy...
+  [3] Score: 0.2462 | doc_id: loai-hinh-thi-truc-tuyen | Preview: Mọi trường hợp nộp muộn sau thời gian quy định sẽ bị khóa cổng nộp hoặc bị trừ điểm theo quy chế. ### 2.3. Loại hình 3: Thi vấn đáp trực tuy...
+
+--- Câu hỏi #3 (2/2 điểm) ---
+Query: Đến phòng thi muộn bao lâu thì không được dự thi?
+Gold Document: nguoi-hoc-du-thi (Điều 13 khoản 2)
+Gold Answer: Người học đến muộn quá 15 phút sau khi đã phát đề thi sẽ không được dự thi. Người học phải có mặt trước giờ thi ít nhất 15 phút.
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.2646 | doc_id: phuc-khao-giang-vien | Preview: - Trường hợp điểm của hai giảng viên chấm phúc khảo có sự chênh lệch dưới 1.0 điểm (trên thang điểm 10): hai giảng viên trực tiếp thảo luận ...
+  [2] Score: 0.2620 | doc_id: can-bo-coi-thi | Preview: - Đếm đủ số bài thi, số tờ giấy thi của từng bài, đối chiếu với danh sách thí sinh dự thi và yêu cầu từng thí sinh ký tên xác nhận vào bảng ...
+  [3] Score: 0.2515 | doc_id: cham-thi | Preview: 2. Xử lý kết quả chấm và độ chênh lệch điểm bài thi tự luận: - Điểm toàn bài là thang điểm 10, làm tròn đến một chữ số thập phân (làm tròn đ...
+
+--- Câu hỏi #4 (0/2 điểm) ---
+Query: Hai giảng viên chấm tiểu luận lệch nhau từ 2 điểm trở lên thì xử lý thế nào?
+Gold Document: cham-thi (Điều 24 khoản 3)
+Gold Answer: Hai GV thảo luận để thống nhất kết quả. Nếu không thống nhất được thì báo CNBM xem xét quyết định. (Lệch dưới 2 điểm thì lấy trung bình cộng.)
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.2483 | doc_id: loai-hinh-thi-truc-tuyen | Preview: Nghiêm cấm sử dụng tai nghe (headphone/earphone) dưới bất kỳ hình thức nào trong giờ thi trừ khi có thông báo cho phép đặc biệt đối với môn ...
+  [2] Score: 0.2227 | doc_id: xu-ly-vi-pham-can-bo | Preview: - Để người học tự do quay cóp bài, sử dụng tài liệu trái phép hoặc trao đổi bài trong phòng thi mà không lập biên bản xử lý vi phạm. - Không...
+  [3] Score: 0.2133 | doc_id: can-bo-coi-thi | Preview: Đối với môn thi trắc nghiệm, thí sinh không được phép rời phòng thi trước khi hết giờ làm bài thi. - Xử lý vi phạm quy chế: Khi phát hiện th...
+
+--- Câu hỏi #5 (1/2 điểm) ---
+Query: Những lỗi vi phạm nào khiến người học bị đình chỉ thi?
+Gold Document: xu-ly-vi-pham-nguoi-hoc (Điều 29 khoản 1c)
+Gold Answer: Mang tài liệu hoặc phương tiện bị cấm vào phòng thi; đưa đề thi ra ngoài khu vực thi hoặc nhận bài giải từ bên ngoài; đã bị cảnh cáo trong giờ thi của học phần đó mà vẫn vi phạm; viết, vẽ nội dung không liên quan; gây rối, đe dọa, xúc phạm CBCT hoặc người học khác; không chấp hành yêu cầu của CBCT về kỷ luật phòng thi. Hậu quả: điểm 0 cho học phần.
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.3088 | doc_id: phuc-khao-giang-vien | Preview: Biên bản chấm phúc khảo phải có đầy đủ chữ ký của các giảng viên chấm phúc khảo, Trưởng bộ môn và Trưởng đơn vị chủ quản học phần. 2. Bảng t...
+  [2] Score: 0.2605 | doc_id: loai-hinh-thi-truc-tuyen | Preview: Kết thúc ca thi: - Thực hiện nộp bài theo đúng hiệu lệnh của CBCT và đúng định dạng yêu cầu trên hệ thống LMS. - Chờ CBCT kiểm tra và xác nh...
+  [3] Score: 0.1976 | doc_id: xu-ly-vi-pham-nguoi-hoc | Preview: 2. Trừ điểm bài thi: - Người học bị khiển trách trong khi thi bài thi nào sẽ bị trừ 25% số điểm bài thi đó. - Người học bị cảnh cáo trong kh...
+
+>> TỔNG ĐIỂM TRUY XUẤT (Sentence (3 câu/chunk)): 6/10 điểm

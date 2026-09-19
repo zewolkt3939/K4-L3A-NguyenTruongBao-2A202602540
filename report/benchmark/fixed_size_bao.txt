@@ -1,0 +1,58 @@
+================================================================================
+KẾT QUẢ ĐÁNH GIÁ CHIẾN LƯỢC: FixedSize (500, overlap 100)
+Thành viên thực hiện: Nguyễn Trường Bảo (MSSV: 2A202602540)
+Chủ đề: Khảo thí và Phúc khảo — IUH (Quy chế 610/QĐ-ĐHCN)
+Tổng số chunk được tạo ra: 84
+================================================================================
+
+--- Câu hỏi #1 (0/2 điểm) ---
+Query: Tôi muốn phúc khảo bài thi tự luận thì phải làm gì và trong thời hạn bao lâu?
+Gold Document: phuc-khao-nguoi-hoc (Điều 26 khoản 1)
+Gold Answer: Làm đơn phúc khảo điểm thi (Mẫu 12), chuyển đơn cùng phiếu đóng tiền phúc khảo đến giáo vụ Khoa/Viện của đơn vị chủ quản học phần trong vòng 14 ngày làm việc kể từ ngày điểm thi được công bố. Nộp muộn hơn thì phải được Trưởng đơn vị chủ quản học phần đồng ý.
+Filter áp dụng: {'audience': 'student'}
+Top-3 Chunks:
+  [1] Score: 0.1542 | doc_id: nguoi-hoc-du-thi | Preview: o CBCT trong vòng 05 phút đầu kể từ khi phát đề xong. - Phải ghi đầy đủ họ tên, mã số sinh viên, số báo danh và mã đề thi vào giấy thi, giấy...
+  [2] Score: 0.0990 | doc_id: phuc-khao-nguoi-hoc | Preview: chủ quản học phần mới được tiếp nhận giải quyết.  3. Mức thu lệ phí phúc khảo bài thi: - Người học phải nộp lệ phí phúc khảo theo quy định m...
+  [3] Score: 0.0837 | doc_id: xu-ly-vi-pham-nguoi-hoc | Preview: phần của bài thi viết trên giấy nháp hoặc giấy không đúng quy định.  3. Hủy kết quả thi và đình chỉ học tập: - Hủy bỏ kết quả thi của học ph...
+
+--- Câu hỏi #2 (2/2 điểm) ---
+Query: Thời lượng tối đa của một bài thi tự luận là bao nhiêu phút?
+Gold Document: hinh-thuc-thoi-luong-thi (Điều 6 khoản 4d)
+Gold Answer: Tối thiểu 50 phút và tối đa 120 phút, tùy số tín chỉ của học phần và số câu hỏi trong đề.
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.3331 | doc_id: phuc-khao-giang-vien | Preview:  kết luận, Trưởng đơn vị lập biên bản báo cáo Hội đồng Khảo thí trường để chỉ định cán bộ chấm thi thứ ba hoặc thành lập Hội đồng chấm thẩm ...
+  [2] Score: 0.2496 | doc_id: loai-hinh-thi-truc-tuyen | Preview: ác đơn vị đào tạo áp dụng một trong các loại hình thi trực tuyến sau đây:  ### 2.1. Loại hình 1: Thi trắc nghiệm trực tuyến (Online Multiple...
+  [3] Score: 0.2415 | doc_id: can-bo-coi-thi | Preview: trách nhiệm cao, trung thực, khách quan và tuân thủ nghiêm ngặt lịch điều động coi thi.  3. Những người không được phân công làm cán bộ coi ...
+
+--- Câu hỏi #3 (2/2 điểm) ---
+Query: Đến phòng thi muộn bao lâu thì không được dự thi?
+Gold Document: nguoi-hoc-du-thi (Điều 13 khoản 2)
+Gold Answer: Người học đến muộn quá 15 phút sau khi đã phát đề thi sẽ không được dự thi. Người học phải có mặt trước giờ thi ít nhất 15 phút.
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.2553 | doc_id: nguoi-hoc-du-thi | Preview: í quy định ghi trên sơ đồ phòng thi hoặc theo sự hướng dẫn sắp xếp của CBCT. Không được tự ý đổi chỗ ngồi cho người khác.  5. Vật dụng được ...
+  [2] Score: 0.2485 | doc_id: loai-hinh-thi-truc-tuyen | Preview: # Các loại hình thi trực tuyến  Phòng Khảo thí và Đảm bảo chất lượng — Trường Đại học Công nghiệp TP. Hồ Chí Minh (IUH) hướng dẫn các loại h...
+  [3] Score: 0.2292 | doc_id: loai-hinh-thi-truc-tuyen | Preview: i học thông qua môi trường mạng máy tính và hệ thống phần mềm khảo thí trực tuyến của Nhà trường. Việc tổ chức thi trực tuyến phải đảm bảo t...
+
+--- Câu hỏi #4 (0/2 điểm) ---
+Query: Hai giảng viên chấm tiểu luận lệch nhau từ 2 điểm trở lên thì xử lý thế nào?
+Gold Document: cham-thi (Điều 24 khoản 3)
+Gold Answer: Hai GV thảo luận để thống nhất kết quả. Nếu không thống nhất được thì báo CNBM xem xét quyết định. (Lệch dưới 2 điểm thì lấy trung bình cộng.)
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.2910 | doc_id: xu-ly-vi-pham-can-bo | Preview: # Xử lý cán bộ vi phạm quy chế tổ chức thi, chấm thi  ## Điều 30. Xử lý cán bộ, giảng viên, nhân viên vi phạm quy chế công tác thi  1. Cán b...
+  [2] Score: 0.2046 | doc_id: can-bo-coi-thi | Preview: án ảnh hợp lệ. - Hướng dẫn thí sinh ngồi đúng vị trí quy định; yêu cầu thí sinh để toàn bộ túi xách, tài liệu, ba lô, điện thoại di động và ...
+  [3] Score: 0.2034 | doc_id: loai-hinh-thi-truc-tuyen | Preview: i học thông qua môi trường mạng máy tính và hệ thống phần mềm khảo thí trực tuyến của Nhà trường. Việc tổ chức thi trực tuyến phải đảm bảo t...
+
+--- Câu hỏi #5 (1/2 điểm) ---
+Query: Những lỗi vi phạm nào khiến người học bị đình chỉ thi?
+Gold Document: xu-ly-vi-pham-nguoi-hoc (Điều 29 khoản 1c)
+Gold Answer: Mang tài liệu hoặc phương tiện bị cấm vào phòng thi; đưa đề thi ra ngoài khu vực thi hoặc nhận bài giải từ bên ngoài; đã bị cảnh cáo trong giờ thi của học phần đó mà vẫn vi phạm; viết, vẽ nội dung không liên quan; gây rối, đe dọa, xúc phạm CBCT hoặc người học khác; không chấp hành yêu cầu của CBCT về kỷ luật phòng thi. Hậu quả: điểm 0 cho học phần.
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.2803 | doc_id: can-bo-coi-thi | Preview:  nhận nhiệm vụ, túi tài liệu phòng thi, danh sách thí sinh, túi đề thi còn nguyên niêm phong, giấy thi và giấy nháp. - Kiểm tra phòng thi, v...
+  [2] Score: 0.2604 | doc_id: xu-ly-vi-pham-can-bo | Preview: ng thi, làm việc riêng trong khi thực hiện nhiệm vụ coi thi. - Không kiểm tra kỹ thẻ sinh viên hoặc giấy tờ tùy thân của người học dẫn đến s...
+  [3] Score: 0.2492 | doc_id: xu-ly-vi-pham-can-bo | Preview: # Xử lý cán bộ vi phạm quy chế tổ chức thi, chấm thi  ## Điều 30. Xử lý cán bộ, giảng viên, nhân viên vi phạm quy chế công tác thi  1. Cán b...
+
+>> TỔNG ĐIỂM TRUY XUẤT (FixedSize (500, overlap 100)): 5/10 điểm

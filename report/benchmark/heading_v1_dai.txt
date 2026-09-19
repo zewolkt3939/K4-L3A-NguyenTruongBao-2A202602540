@@ -1,0 +1,58 @@
+================================================================================
+KẾT QUẢ ĐÁNH GIÁ CHIẾN LƯỢC: Heading v1 (500, drop_notes=False)
+Thành viên thực hiện: Đỗ Đức Đại (MSSV: 2A202602725)
+Chủ đề: Khảo thí và Phúc khảo — IUH (Quy chế 610/QĐ-ĐHCN)
+Tổng số chunk được tạo ra: 100
+================================================================================
+
+--- Câu hỏi #1 (0/2 điểm) ---
+Query: Tôi muốn phúc khảo bài thi tự luận thì phải làm gì và trong thời hạn bao lâu?
+Gold Document: phuc-khao-nguoi-hoc (Điều 26 khoản 1)
+Gold Answer: Làm đơn phúc khảo điểm thi (Mẫu 12), chuyển đơn cùng phiếu đóng tiền phúc khảo đến giáo vụ Khoa/Viện của đơn vị chủ quản học phần trong vòng 14 ngày làm việc kể từ ngày điểm thi được công bố. Nộp muộn hơn thì phải được Trưởng đơn vị chủ quản học phần đồng ý.
+Filter áp dụng: {'audience': 'student'}
+Top-3 Chunks:
+  [1] Score: 0.2141 | doc_id: phuc-khao-nguoi-hoc | Preview: ## Điều 26. Tiếp nhận và giải quyết khiếu nại, phúc khảo điểm thi của người học 2. Quy trình và thời hạn nộp đơn phúc khảo: - Người học làm ...
+  [2] Score: 0.1917 | doc_id: phuc-khao-nguoi-hoc | Preview: ## Điều 26. Tiếp nhận và giải quyết khiếu nại, phúc khảo điểm thi của người học 5. Các trường hợp không giải quyết phúc khảo: - Không nhận đ...
+  [3] Score: 0.1896 | doc_id: xu-ly-vi-pham-nguoi-hoc | Preview: ## Điều 29. Xử lý người học vi phạm quy chế thi và đánh giá kết quả học tập 2. Trừ điểm bài thi: - Người học bị khiển trách trong khi thi bà...
+
+--- Câu hỏi #2 (1/2 điểm) ---
+Query: Thời lượng tối đa của một bài thi tự luận là bao nhiêu phút?
+Gold Document: hinh-thuc-thoi-luong-thi (Điều 6 khoản 4d)
+Gold Answer: Tối thiểu 50 phút và tối đa 120 phút, tùy số tín chỉ của học phần và số câu hỏi trong đề.
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.2535 | doc_id: xu-ly-vi-pham-nguoi-hoc | Preview: ## Điều 29. Xử lý người học vi phạm quy chế thi và đánh giá kết quả học tập - Trường hợp người đi thi hộ không phải là người học của Trường ...
+  [2] Score: 0.2385 | doc_id: loai-hinh-thi-truc-tuyen | Preview: ## 2. Các loại hình thi trực tuyến áp dụng  Căn cứ vào đặc thù của từng môn học, chương trình đào tạo và chuẩn đầu ra của học phần, các đơn ...
+  [3] Score: 0.2266 | doc_id: xu-ly-vi-pham-nguoi-hoc | Preview: ## Điều 29. Xử lý người học vi phạm quy chế thi và đánh giá kết quả học tập 4. Đạo văn trong tiểu luận, đồ án, khóa luận tốt nghiệp: - Tiểu ...
+
+--- Câu hỏi #3 (2/2 điểm) ---
+Query: Đến phòng thi muộn bao lâu thì không được dự thi?
+Gold Document: nguoi-hoc-du-thi (Điều 13 khoản 2)
+Gold Answer: Người học đến muộn quá 15 phút sau khi đã phát đề thi sẽ không được dự thi. Người học phải có mặt trước giờ thi ít nhất 15 phút.
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.2663 | doc_id: bien-soan-de-thi | Preview: ## Điều 8. Quy trình biên soạn, thẩm định và nộp đề thi 3. In sao và bảo mật đề thi: - Phòng Khảo thí và ĐBCL chịu trách nhiệm quản lý máy c...
+  [2] Score: 0.2195 | doc_id: xu-ly-vi-pham-can-bo | Preview: ## Điều 30. Xử lý cán bộ, giảng viên, nhân viên vi phạm quy chế công tác thi - Ra đề thi sai kiến thức cơ bản, sai thang điểm hoặc vượt quá ...
+  [3] Score: 0.2038 | doc_id: nguoi-hoc-du-thi | Preview: ## Điều 13. Trách nhiệm của người học khi dự thi kết thúc học phần - Khi có hiệu lệnh hết giờ làm bài, người học phải ngừng viết ngay lập tứ...
+
+--- Câu hỏi #4 (1/2 điểm) ---
+Query: Hai giảng viên chấm tiểu luận lệch nhau từ 2 điểm trở lên thì xử lý thế nào?
+Gold Document: cham-thi (Điều 24 khoản 3)
+Gold Answer: Hai GV thảo luận để thống nhất kết quả. Nếu không thống nhất được thì báo CNBM xem xét quyết định. (Lệch dưới 2 điểm thì lấy trung bình cộng.)
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.2658 | doc_id: xu-ly-vi-pham-nguoi-hoc | Preview: # Xử lý người học vi phạm quy chế thi  ## Điều 29. Xử lý người học vi phạm quy chế thi và đánh giá kết quả học tập 1. Người học vi phạm quy ...
+  [2] Score: 0.2602 | doc_id: loai-hinh-thi-truc-tuyen | Preview: ## 3. Yêu cầu về trang thiết bị và đường truyền đối với người học - Thiết bị âm thanh: Microphone và loa hoạt động rõ ràng trong suốt thời g...
+  [3] Score: 0.2516 | doc_id: xu-ly-vi-pham-nguoi-hoc | Preview: ## Điều 29. Xử lý người học vi phạm quy chế thi và đánh giá kết quả học tập 2. Trừ điểm bài thi: - Người học bị khiển trách trong khi thi bà...
+
+--- Câu hỏi #5 (1/2 điểm) ---
+Query: Những lỗi vi phạm nào khiến người học bị đình chỉ thi?
+Gold Document: xu-ly-vi-pham-nguoi-hoc (Điều 29 khoản 1c)
+Gold Answer: Mang tài liệu hoặc phương tiện bị cấm vào phòng thi; đưa đề thi ra ngoài khu vực thi hoặc nhận bài giải từ bên ngoài; đã bị cảnh cáo trong giờ thi của học phần đó mà vẫn vi phạm; viết, vẽ nội dung không liên quan; gây rối, đe dọa, xúc phạm CBCT hoặc người học khác; không chấp hành yêu cầu của CBCT về kỷ luật phòng thi. Hậu quả: điểm 0 cho học phần.
+Filter áp dụng: None
+Top-3 Chunks:
+  [1] Score: 0.3944 | doc_id: phuc-khao-nguoi-hoc | Preview: ## Điều 26. Tiếp nhận và giải quyết khiếu nại, phúc khảo điểm thi của người học - Trường hợp nộp muộn hơn 14 ngày làm việc, người học phải c...
+  [2] Score: 0.3048 | doc_id: nguoi-hoc-du-thi | Preview: ## Điều 13. Trách nhiệm của người học khi dự thi kết thúc học phần - Khi có hiệu lệnh hết giờ làm bài, người học phải ngừng viết ngay lập tứ...
+  [3] Score: 0.2983 | doc_id: xu-ly-vi-pham-nguoi-hoc | Preview: ## Điều 29. Xử lý người học vi phạm quy chế thi và đánh giá kết quả học tập - Trường hợp người đi thi hộ không phải là người học của Trường ...
+
+>> TỔNG ĐIỂM TRUY XUẤT (Heading v1 (500, drop_notes=False)): 5/10 điểm
